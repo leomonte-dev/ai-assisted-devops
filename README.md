@@ -20,26 +20,27 @@
 
 ## **Day 2: Prompt Engineering Masterclass**
 ### 📌 Topics
-- **Fundamentals:** Tokens, temperature, max tokens, top-p, frequency & presence penalties
+- **Fundamentals:** Tokens, temperature and max tokens.
 - **Techniques:** Zero-shot, few-shot, n-shot, and Chain-of-Thought (CoT) prompting
 - Writing structured prompts for DevOps use cases
 - AI-generated regex, Bash scripts, Terraform, and CI/CD configurations
 
 ### 🛠 Hands-on
-- **Experimenting with LLM parameters** to optimize AI outputs
-- **Mini-Challenge:** "Use AI to debug a YAML file and refine output with prompt tweaks"
-- **Live Demo:** Auto-generating a Kubernetes Helm chart using prompt refinement
+- **Live Demo:** Demonstrate an example of few shot prompting in real time.
 
 ---
 
 ## **Day 3: Running LLMs Locally & Making API Calls**
 ### 📌 Topics
 - Running **LLMs locally** (Ollama, LM Studio, GPT4All)
-- Calling AI **via APIs (OpenAI, Mistral, Hugging Face, LM Studio API)**
-- Intro to **LangChain** for automating AI workflows
+- Calling AI **via APIs (OpenAI, Mistral, LLama, Deepseek e.t.c.,.)**
+- Python script to invoke ollama api
 
 ### 🛠 Hands-on
-- **Mini-Challenge:** "Call an AI API to auto-generate Kubernetes manifests"
+- **Dockerfile Generation** "Call Ollama endpoint to auto-generate Docker manifests using llama3 model"
+
+### 🛠 Mini-Challenge
+- "Call an AI API to auto-generate Kubernetes manifests using llama3 model"
 
 ---
 
